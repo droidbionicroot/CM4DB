@@ -162,7 +162,7 @@
   <project path="frameworks/support" name="platform/frameworks/support" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
   <project path="hardware/invensense" name="platform/hardware/invensense" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
-  <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" />
+  <project path="hardware/libhardware" name="dhacker29/android_hardware_libhardware" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
   <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
@@ -228,7 +228,7 @@
   <project path="packages/wallpapers/MusicVisualization" name="CyanogenMod/android_packages_wallpapers_MusicVisualization" />
   <project path="packages/wallpapers/NoiseField" name="platform/packages/wallpapers/NoiseField" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
   <project path="packages/wallpapers/PhaseBeam" name="platform/packages/wallpapers/PhaseBeam" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
-  <project path="prebuilt" name="platform/prebuilt" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
+  <project path="prebuilt" name="CyanogenMod/android_prebuilt" />
   <project path="sdk" name="CyanogenMod/android_sdk" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" />
@@ -242,4 +242,6 @@
   <project path="system/core" name="Hashcode/android_system_core" remote="github" revision="ics" />
   <project path="vendor/motorola/targa" name="dhacker29/proprietary_vendor_motorola_targa" remote="github" revision="ics" />
   <project path="device/motorola/common" name="dhacker29/android_device_motorola_common" remote="github" revision="ics" />
+  <project path="hardware/ti/omap4xxx/syslink" name="Hashcode/android_hardware_ti_syslink"
+  <project path="hardware/ti/omap4xxx/tiler" name="platform/hardware/ti/tiler" remote="omapzoom" revision="memmgr_1.0" />
 </manifest>
