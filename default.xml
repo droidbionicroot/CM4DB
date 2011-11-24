@@ -236,8 +236,8 @@
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
-  <project path="android" name="CyanogenMod/android" />
-  <project path="device/motorola/solana" name="Hashcode/android_device_motorola_solana" remote="github" revision="ics" />
+  <project path="android" name="dhacker29/CM4DB" remote="github" revision="ics"/>
+  <project path="device/motorola/targa" name="dhacker29/android_device_motorola_targa" remote="github" revision="ics" />
   <project path="system/core" name="Hashcode/android_system_core" remote="github" revision="ics" />
-  <project path="vendor/motorola/solana" name="Hashcode/android_vendor_motorola_solana" remote="github" revision="ics" />
+  <project path="vendor/motorola/targa" name="dhacker29/proprietary_vendor_motorola_targa" remote="github" revision="ics" />
 </manifest>
