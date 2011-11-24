@@ -203,7 +203,6 @@
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
   <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" />
-  <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" />
   <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" />
   <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
   <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" />
@@ -244,4 +243,5 @@
   <project path="device/motorola/common" name="dhacker29/android_device_motorola_common" remote="github" revision="ics" />
   <project path="hardware/ti/omap4xxx/syslink" name="Hashcode/android_hardware_ti_syslink"
   <project path="hardware/ti/omap4xxx/tiler" name="platform/hardware/ti/tiler" remote="omapzoom" revision="memmgr_1.0" />
+  <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" />
 </manifest>
