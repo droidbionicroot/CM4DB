@@ -241,4 +241,5 @@
   <project path="device/motorola/targa" name="dhacker29/android_device_motorola_targa" remote="github" revision="ics" />
   <project path="system/core" name="Hashcode/android_system_core" remote="github" revision="ics" />
   <project path="vendor/motorola/targa" name="dhacker29/proprietary_vendor_motorola_targa" remote="github" revision="ics" />
+  <project path="device/motorola/common" name="dhacker29/android_device_motorola_common" remote="github" revision="ics" />
 </manifest>
