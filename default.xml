@@ -247,5 +247,5 @@
   <project path="device/motorola/common" name="dhacker29/android_device_motorola_common" remote="github" revision="ics" />
   <project path="hardware/ti/syslink" name="dhacker29/android_hardware_ti_syslink" remote="github" revision="ics" />
   <project path="hardware/ti/tiler" name="platform/hardware/ti/tiler" remote="omapzoom" revision="memmgr_1.0" />
-  <project path="packages/apps/Superuser" name="ChainsDD/android_packages_apps_Superuser" />
+  <project path="packages/apps/Superuser" name="ChainsDD/Superuser" remote="github" revision="master" />
 </manifest>
