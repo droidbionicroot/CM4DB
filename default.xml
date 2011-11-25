@@ -173,7 +173,7 @@
   <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
   <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
-  <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
+  <project path="hardware/ti/omap4xxx" name="Hashcode/android_hardware_ti_omap4xxx" remote="github" revision="ics" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="ndk" name="CyanogenMod/android_ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
@@ -245,7 +245,5 @@
   <project path="system/core" name="Hashcode/android_system_core" remote="github" revision="ics" />
   <project path="vendor/motorola/targa" name="dhacker29/proprietary_vendor_motorola_targa" remote="github" revision="ics" />
   <project path="device/motorola/common" name="dhacker29/android_device_motorola_common" remote="github" revision="ics" />
-  <project path="hardware/ti/omap4xxx/syslink" name="dhacker29/android_hardware_ti_syslink" remote="github" revision="ics" />
-  <project path="hardware/ti/omap4xxx/tiler" name="platform/hardware/ti/tiler" remote="omapzoom" revision="memmgr_1.0" />
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="github" revision="gingerbread" />
 </manifest>
