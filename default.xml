@@ -241,6 +241,7 @@
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
+  <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" remote="github" revision="gingerbread" />
 
   <project path="android" name="dhacker29/CM4DB" remote="github" revision="ics"/>
   <project path="device/motorola/targa" name="dhacker29/android_device_motorola_targa" remote="github" revision="ics" />
