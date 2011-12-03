@@ -260,4 +260,5 @@
   <project path="hardware/ti/omap4xxx" name="Hashcode/android_hardware_ti_omap4xxx" remote="github" revision="ics" />
   <project path="vendor/motorola/targa" name="dhacker29/proprietary_vendor_motorola_targa" remote="github" revision="ics" />
   <project path="device/motorola/common" name="dhacker29/android_device_motorola_common" remote="github" revision="ics" />
+  <project path="packages/apps/AndroidTerm" name="tpruvot/android_packages_apps_AndroidTerm" />
 </manifest>
