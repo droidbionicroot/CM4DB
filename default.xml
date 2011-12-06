@@ -261,5 +261,4 @@
   <project path="vendor/motorola/targa" name="dhacker29/proprietary_vendor_motorola_targa" />
   <project path="device/motorola/common" name="MotoMagic/android_device_motorola_common" />
   <project path="packages/apps/AndroidTerm" name="tpruvot/android_packages_apps_AndroidTerm" />
-  <project path="vendor/google" name="dhacker29/proprietary_vendor_google" />
 </manifest>
