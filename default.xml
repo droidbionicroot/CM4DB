@@ -252,13 +252,14 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" remote="github" revision="gingerbread" />
 
-  <project path="android" name="dhacker29/CM4DB" remote="github" revision="ics"/>
-  <project path="device/motorola/targa" name="dhacker29/android_device_motorola_targa" remote="github" revision="ics" />
+  <project path="android" name="dhacker29/CM4DB" remote="github" />
+  <project path="device/motorola/targa" name="dhacker29/android_device_motorola_targa" />
   <project path="frameworks/base" name="Hashcode/android_frameworks_base" />
-  <project path="system/core" name="Hashcode/android_system_core" remote="github" revision="ics" />
-  <project path="hardware/ti/wpan" name="Hashcode/android_hardware_ti_wpan" revision="refs/heads/ics" />
-  <project path="hardware/ti/omap4xxx" name="Hashcode/android_hardware_ti_omap4xxx" remote="github" revision="ics" />
-  <project path="vendor/motorola/targa" name="dhacker29/proprietary_vendor_motorola_targa" remote="github" revision="ics" />
-  <project path="device/motorola/common" name="MotoMagic/android_device_motorola_common" remote="github" revision="ics" />
+  <project path="system/core" name="Hashcode/android_system_core" />
+  <project path="hardware/ti/wpan" name="Hashcode/android_hardware_ti_wpan" />
+  <project path="hardware/ti/omap4xxx" name="Hashcode/android_hardware_ti_omap4xxx" />
+  <project path="vendor/motorola/targa" name="dhacker29/proprietary_vendor_motorola_targa" />
+  <project path="device/motorola/common" name="MotoMagic/android_device_motorola_common" />
   <project path="packages/apps/AndroidTerm" name="tpruvot/android_packages_apps_AndroidTerm" />
+  <project path="vendor/google" name="dhacker29/proprietary_vendor_google" />
 </manifest>
