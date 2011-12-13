@@ -33,6 +33,10 @@ To initialize your local repository using the CyanogenMod trees, use a command l
 
     repo init -u git://github.com/CyanogenMod/android.git -b ics
 
+To initialize your local repository using the CM4DB trees, use a command like this:
+
+    repo init -u git://github.com/dhacker29/CM4DB.git -b ics
+
 Then to sync up:
 
     repo sync
