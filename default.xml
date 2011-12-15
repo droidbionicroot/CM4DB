@@ -261,4 +261,6 @@
   <project path="device/motorola/common" name="MotoMagic/android_device_motorola_common" />
   <project path="hardware/libhardware_legacy" name="Hashcode/android_hardware_libhardware_legacy" />
   <project path="packages/apps/AndroidTerm" name="tpruvot/android_packages_apps_AndroidTerm" />
+  <project path="vendor/google" name="ICSTH3ORY/proprietary_vendor_google" />
+  <project path="vendor/verizon" name="ICSTH3ORY/proprietary_vendor_verizon" />
 </manifest>
