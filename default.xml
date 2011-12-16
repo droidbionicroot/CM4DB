@@ -204,7 +204,6 @@
   <project path="packages/apps/MusicFX" name="CyanogenMod/android_packages_apps_MusicFX" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
   <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />
-  <project path="packages/apps/Phone" name="CyanogenMod/android_packages_apps_Phone" />
   <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" />
   <project path="packages/apps/QuickSearchBox" name="CyanogenMod/android_packages_apps_QuickSearchBox" />
   <project path="packages/apps/Settings" name="CyanogenMod/android_packages_apps_Settings" />
@@ -258,6 +257,7 @@
   <project path="vendor/motorola/targa" name="dhacker29/proprietary_vendor_motorola_targa" />
   <project path="device/motorola/common" name="MotoMagic/android_device_motorola_common" />
   <project path="hardware/libhardware_legacy" name="Hashcode/android_hardware_libhardware_legacy" />
+  <project path="packages/apps/Phone" name="Hashcode/android_packages_apps_Phone" />
   <project path="vendor/google" name="ICSTH3ORY/proprietary_vendor_google" />
   <project path="vendor/verizon" name="ICSTH3ORY/proprietary_vendor_verizon" />
 </manifest>
