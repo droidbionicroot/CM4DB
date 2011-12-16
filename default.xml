@@ -192,7 +192,6 @@
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
   <project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" />
   <project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" />
-  <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" />
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
   <project path="packages/apps/Gallery" name="CyanogenMod/android_packages_apps_Gallery" />
@@ -207,7 +206,6 @@
   <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />
   <project path="packages/apps/Phone" name="CyanogenMod/android_packages_apps_Phone" />
   <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" />
-  <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="CyanogenMod/android_packages_apps_QuickSearchBox" />
   <project path="packages/apps/Settings" name="CyanogenMod/android_packages_apps_Settings" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
@@ -260,7 +258,6 @@
   <project path="vendor/motorola/targa" name="dhacker29/proprietary_vendor_motorola_targa" />
   <project path="device/motorola/common" name="MotoMagic/android_device_motorola_common" />
   <project path="hardware/libhardware_legacy" name="Hashcode/android_hardware_libhardware_legacy" />
-  <project path="packages/apps/AndroidTerm" name="tpruvot/android_packages_apps_AndroidTerm" />
   <project path="vendor/google" name="ICSTH3ORY/proprietary_vendor_google" />
   <project path="vendor/verizon" name="ICSTH3ORY/proprietary_vendor_verizon" />
 </manifest>
