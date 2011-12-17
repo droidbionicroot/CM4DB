@@ -264,7 +264,6 @@
   <project path="hardware/ti/omap4xxx" name="ICSTH3ORY/android_hardware_ti_omap4xxx" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" />
-  <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" />
   <project path="vendor/google" name="ICSTH3ORY/proprietary_vendor_google" />
   <project path="vendor/verizon" name="ICSTH3ORY/proprietary_vendor_verizon" />
 </manifest>
