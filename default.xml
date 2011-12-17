@@ -178,6 +178,10 @@
   <project path="frameworks/support" name="platform/frameworks/support" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
   <project path="hardware/invensense" name="platform/hardware/invensense" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
+  <project path="hardware/libhardware" name="platform/hardware/libhardware" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
+  <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
+  <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" />
+  <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
   <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
@@ -254,16 +258,14 @@
   <project path="external/hostapd" name="CyanogenMod/android_external_hostapd" remote="github" revision="gingerbread" />
   <project path="packages/apps/Usb" name="CyanogenMod/android_packages_apps_Usb" revision="refs/heads/gingerbread" />
 
-  <project path="android" name="dhacker29/CM4DB" remote="github" />
+  <project path="android" name="dhacker29/CM4DB" />
   <project path="device/motorola/targa" name="dhacker29/android_device_motorola_targa" />
   <project path="vendor/motorola/targa" name="dhacker29/proprietary_vendor_motorola_targa" />
   <project path="device/motorola/common" name="MotoMagic/android_device_motorola_common" />
-  <project path="frameworks/base" name="ICSTH3ORY/android_frameworks_base" />
-  <project path="system/core" name="ICSTH3ORY/android_system_core" />
+  <project path="frameworks/base" name="Hashcode/android_frameworks_base" />
+  <project path="system/core" name="Hashcode/android_system_core" />
   <project path="hardware/ti/wpan" name="Hashcode/android_hardware_ti_wpan" />
-  <project path="hardware/ti/omap4xxx" name="ICSTH3ORY/android_hardware_ti_omap4xxx" />
-  <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
-  <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" />
+  <project path="hardware/ti/omap4xxx" name="Hashcode/android_hardware_ti_omap4xxx" />
   <project path="vendor/google" name="ICSTH3ORY/proprietary_vendor_google" />
   <project path="vendor/verizon" name="ICSTH3ORY/proprietary_vendor_verizon" />
 </manifest>
