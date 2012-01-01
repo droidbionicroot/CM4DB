@@ -261,7 +261,6 @@
   <project path="android" name="dhacker29/CM4DB" />
   <project path="device/motorola/targa" name="dhacker29/android_device_motorola_targa" />
   <project path="vendor/motorola/targa" name="dhacker29/proprietary_vendor_motorola_targa" />
-  <project path="device/motorola/common" name="MotoMagic/android_device_moto_hijack" />
   <project path="frameworks/base" name="Hashcode/android_frameworks_base" />
   <project path="system/core" name="Hashcode/android_system_core" />
   <project path="hardware/ti/wpan" name="Hashcode/android_hardware_ti_wpan" />
