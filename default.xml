@@ -207,7 +207,6 @@
   <project path="packages/apps/HTMLViewer" name="CyanogenMod/android_packages_apps_HTMLViewer" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="packages/apps/Trebuchet" name="CyanogenMod/android_packages_apps_Trebuchet" />
-  <!-- <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" remote="aosp" revision="refs/tags/android-4.0.3_r1" /> -->
   <project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms" />
   <project path="packages/apps/Music" name="CyanogenMod/android_packages_apps_Music" />
   <project path="packages/apps/MusicFX" name="CyanogenMod/android_packages_apps_MusicFX" />
@@ -265,6 +264,8 @@
   <project path="system/core" name="Hashcode/android_system_core" />
   <project path="hardware/ti/wpan" name="Hashcode/android_hardware_ti_wpan" />
   <project path="hardware/ti/omap4xxx" name="Hashcode/android_hardware_ti_omap4xxx" />
+  <project path="hardware/ti/syslink" name="Hashcode/android_hardware_ti_syslink" revision="refs/heads/gingerbread" />
+  <project path="hardware/ti/tiler" name="platform/hardware/ti/tiler" remote="omapzoom" revision="refs/heads/memmgr_1.0" />
   <project path="packages/apps/Phone" name="Hashcode/android_packages_apps_Phone" />
   <project path="packages/providers/ContactsProvider" name="Hashcode/android_packages_providers_ContactsProvider" />
   <project path="vendor/google" name="ICSTH3ORY/proprietary_vendor_google" />
