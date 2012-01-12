@@ -33,7 +33,7 @@
   <project path="device/geeksphone/one" name="CyanogenMod/android_device_geeksphone_one" />
   <project path="device/geeksphone/zero" name="CyanogenMod/android_device_geeksphone_zero" />
   <project path="device/huawei/ascend" name="CyanogenMod/android_device_huawei_ascend" />
-  <!-- <project path="device/huawei/ideos" name="CyanogenMod/android_device_huawei_ideos" /> -->
+  <project path="device/huawei/ideos" name="CyanogenMod/android_device_huawei_ideos" />
   <project path="device/huawei/u8220" name="CyanogenMod/android_device_huawei_u8220" />
   <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" />
   <project path="device/htc/ace" name="CyanogenMod/android_device_htc_ace" />
@@ -101,6 +101,7 @@
   <project path="device/samsung/vibrantmtd" name="CyanogenMod/android_device_samsung_vibrantmtd" />
   <project path="device/samsung/vzwtab" name="CyanogenMod/android_device_samsung_vzwtab" />
   <project path="device/semc/anzu" name="CyanogenMod/android_device_semc_anzu" />
+  <project path="device/semc/coconut" name="CyanogenMod/android_device_semc_coconut" />
   <project path="device/semc/es209ra" name="CyanogenMod/android_device_semc_es209ra" />
   <project path="device/semc/hallon" name="CyanogenMod/android_device_semc_hallon" />
   <project path="device/semc/mango" name="CyanogenMod/android_device_semc_mango" />
