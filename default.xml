@@ -257,9 +257,9 @@
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
-  <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" remote="github" revision="gingerbread" />
+  <project path="packages/apps/FileManager" name="dhacker29/android_packages_apps_FileManager" />
   <project path="external/hostapd" name="CyanogenMod/android_external_hostapd" remote="github" revision="gingerbread" />
-  <project path="packages/apps/Usb" name="CyanogenMod/android_packages_apps_Usb" revision="refs/heads/gingerbread" />
+  <project path="packages/apps/Usb" name="CyanogenDefy/android_packages_apps_Usb" />
 
   <project path="android" name="dhacker29/CM4DB" />
   <project path="device/motorola/targa" name="dhacker29/android_device_motorola_targa" />
