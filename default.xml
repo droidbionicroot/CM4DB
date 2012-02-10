@@ -216,6 +216,7 @@
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
   <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />
   <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" />
+  <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="CyanogenMod/android_packages_apps_QuickSearchBox" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
@@ -260,8 +261,8 @@
   <project path="packages/apps/Usb" name="CyanogenDefy/android_packages_apps_Usb" />
 
   <project path="android" name="dhacker29/CM4DB" />
-  <project path="device/motorola/targa" name="droidbionicroot/android_device_motorola_targa" />
-  <project path="vendor/motorola/targa" name="dhacker29/proprietary_vendor_motorola_targa" />
+  <project path="device/motorola/targa" name="STS-Dev-Team/android_device_motorola_targa" />
+  <project path="vendor/motorola/targa" name="STS-Dev-Team/proprietary_vendor_motorola_targa" />
   <project path="device/motorola/spyder" name="STS-Dev-Team/android_device_motorola_spyder" />
   <project path="vendor/motorola/spyder" name="STS-Dev-Team/android_vendor_motorola_spyder" />
   <project path="frameworks/base" name="dhacker29/android_frameworks_base" />
