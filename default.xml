@@ -260,8 +260,8 @@
   <project path="external/hostapd" name="CyanogenMod/android_external_hostapd" remote="github" revision="gingerbread" />
   <project path="packages/apps/Usb" name="CyanogenDefy/android_packages_apps_Usb" />
 
-  <project path="android" name="dhacker29/CM4DB" />
-  <project path="device/motorola/targa" name="STS-Dev-Team/android_device_motorola_targa" revision="ics-dhmod" />
+  <project path="android" name="droidbionicroot/CM4DB" />
+  <project path="device/motorola/targa" name="droidbionicroot/android_device_motorola_targa" />
   <project path="vendor/motorola/targa" name="STS-Dev-Team/android_vendor_motorola_targa" />
   <project path="device/motorola/spyder" name="STS-Dev-Team/android_device_motorola_spyder" revision="ics-dhmod" />
   <project path="vendor/motorola/spyder" name="STS-Dev-Team/android_vendor_motorola_spyder" />
@@ -277,5 +277,5 @@
   <project path="vendor/google" name="STS-Dev-Team/proprietary_vendor_google" />
   <project path="vendor/verizon" name="STS-Dev-Team/proprietary_vendor_verizon" revision="ics-test"/>
   <project path="packages/apps/Settings" name="STS-Dev-Team/android_packages_apps_Settings" revision="ics-dhmod" />
-  <project path="packages/apps/Th3oryWallpaper" name="dhacker29/packages_apps_Wallpapers" />
+  <project path="packages/apps/Th3oryWallpaper" name="droidbionicroot/packages_apps_Wallpapers" />
 </manifest>
